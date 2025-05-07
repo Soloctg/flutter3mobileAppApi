@@ -8,4 +8,3 @@ Route::get('/', function () {
 });
 
 
-Route::apiResource('categories', CategoryController::class);
